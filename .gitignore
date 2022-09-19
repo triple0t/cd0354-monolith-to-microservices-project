@@ -31,7 +31,6 @@ $RECYCLE.BIN/
 postgres_dev/
 logfile
 
-kube
 aws-secret.yaml
 env-configmap.yaml
 env-secret.yaml
